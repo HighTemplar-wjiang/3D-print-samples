@@ -4,7 +4,7 @@ Samples for 3D printers as references.
 ## Connex3 Objet260 3D Printer
 - Tray materials
   - VeroWhitePlus: General purpose, high dimensional stability, e-Modulus, 2000-3000 MPa, HDT 45-50&deg;C, white.
-  - VeroClear: General purpose, HDT 49&deg;, clear.
+  - VeroClear: General purpose, HDT 49&deg;C, clear.
   - Agilus30Black: Rubber-like, Shore A30, Elongation at break 250%, good tear resistance. 
 - Digital materials
   - VeroWhitePlus + VeroClear: Rigid, different opacities.
