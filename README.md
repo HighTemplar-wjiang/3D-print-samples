@@ -7,6 +7,8 @@ Samples for 3D printers as references.
 
 ## Connex3 Objet260 3D Printer [[specs](https://www.stratasys.com/3d-printers/objet260-connex3)]
 
+<img src="./res/digital_material.jpg" width=600px>
+
 ### Tray materials
 - [VeroWhitePlus](https://www.stratasys.com/materials/search/vero): General purpose, high dimensional stability, e-Modulus, 2000-3000 MPa, HDT 45-50&deg;C, white.
 - [VeroClear](https://www.stratasys.com/materials/search/veroclear): General purpose, HDT 49&deg;C, clear.
