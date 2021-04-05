@@ -33,5 +33,15 @@ Samples for 3D printers as references.
   - FLXA9885-DM: Rubber-like, Shore A85.
   - FLXA9895-DM: Rubber-like, Shore A95.
 - VeroClear + Agilus30Black: The same as VeroWhitePlus + Agilus30Black, with different opacities for rigid materials. 
-  - RGDA8705-DM ~ RGDA8730-DM: High rigidity, from transparent to translucent.
-  - FLXA9040-DM ~ FLXA9095-DM: Rubber-like, opaque. 
+  - RGDA8705-DM: High rigidity, impact 25 J/m, Elongation at break 15% ~ 25%. 
+  - RGDA8710-DM: (The same property as RGDA8505-DM, darker color.)
+  - RGDA8715-DM: (The same property as RGDA8505-DM, darker color.)
+  - RGDA8720-DM: (The same property as RGDA8505-DM, darker color.)
+  - RGDA8725-DM: High rigidity, impact 25 J/m, Elongation at break 20% ~ 30%.
+  - RGDA8730-DM: High rigidity, impact 30 J/m, Elongation at break 25% ~ 35%.
+  - FLXA9040-DM: Rubber-like, Shore A40.
+  - FLXA9050-DM: Rubber-like, Shore A50.
+  - FLXA9060-DM: Rubber-like, Shore A60.
+  - FLXA9070-DM: Rubber-like, Shore A70.
+  - FLXA9085-DM: Rubber-like, Shore A85.
+  - FLXA9095-DM: Rubber-like, Shore A95.
